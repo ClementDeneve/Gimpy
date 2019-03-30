@@ -20,10 +20,13 @@ Fonctions du script :
 Pour l'installation il faut juste télécharger le .zip via github, il comprend le script et le dossier contenant les images utiles à l'affichage de l'interface graphique.
 Il faut également une version python 3.x avec les bons modules. Ils sont en général compris dans le téléchargement de python.
 
-Pour installer les modules utilisés via cmd sous windows (Penser à mettre python dans le PATH)
-#python -m pip install matplotlib
-#python -m pip install tkinter
-#python -m pip install PIL
+Pour installer les modules utilisés via cmd sous windows (Penser à mettre python dans le PATH) 
+
+ #python -m pip install matplotlib
+ 
+ #python -m pip install tkinter
+ 
+ #python -m pip install Pillow
 
 # Gimpy - Améliorations
 
