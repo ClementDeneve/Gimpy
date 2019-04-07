@@ -1,5 +1,5 @@
 # Gimpy - Description 
-Gimpy est un logiciel de traitement d'image écrit en python 3.X, utilisant la Programmation Orentientée Objet (POO). 
+Gimpy est un logiciel de traitement d'image écrit en python 3.X, utilisant la Programmation Orientée Objet (POO). 
  
 Modules utilisés : 
  - tkinter pour l'interface graphique
