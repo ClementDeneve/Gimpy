@@ -1,7 +1,8 @@
 #o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
-#Logiciel de traitement d'image sous python 3.x en POO
-#GUI : tkinter
-#Traitement d'image : Pillow alias PIL
+# Logiciel de traitement d'image sous python 3.x en POO
+# GUI : tkinter
+# Mini projet information en CPGE
+# Traitement d'image : Pillow alias PIL
 #o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
 
 #o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o Importations o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
